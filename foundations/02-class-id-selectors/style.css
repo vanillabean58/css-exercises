@@ -1,0 +1,22 @@
+.odd {
+  background-color: rgb(255, 182, 193);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.second {
+  /* **The second element**: blue text and a font size of 36px*/
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.odd#third {
+  /***The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px*/
+  font-size: 24px;
+}
+
+.fourth {
+  /***The fourth element**: a light green background, a font size of 24px, and bold*/
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
